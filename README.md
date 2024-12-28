@@ -1,12 +1,20 @@
 # LoadingView
 
-A Swift start page. Displays a loading screen with a vertically waterfall-like fading animation of a quote, followed by a transition to the main page of your app. 
+LoadingView is a SwiftUI component that displays a loading screen with a vertically fading animation of a motivational quote, followed by a transition to the main page of your app.
 
 ## Features
 - **Dynamic Quotes:** Displays a random motivational quote.
+
 - **Smooth Animation:** Gradual fade-in effect for each character of the quote.
+
 - **Light & Dark Mode Support:** Adapts background and text colors based on the system color scheme.
+
 - **Customizable Transition:** Easily transition to your app's main page after the loading screen.
+
+  <video width="600" controls>
+    <source src="https://github.com/KennyXiang/LoadingView/raw/main/assets/sample.mov" type="video/mov">
+    Your browser does not support the video tag.
+  </video>
 
 ## Installation
 1. Clone or download this repository.
