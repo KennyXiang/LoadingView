@@ -1,6 +1,6 @@
 # LoadingView
 
-LoadingView is a SwiftUI component that displays a loading screen with a vertically fading animation of a motivational quote, followed by a transition to the main page of your app.
+A Swift start page. Displays a loading screen with a vertically fading animation of a quote, followed by a transition to the main page of your app. 
 
 ## Features
 - **Dynamic Quotes:** Displays a random motivational quote.
