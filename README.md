@@ -11,7 +11,7 @@ LoadingView is a SwiftUI component that displays a loading screen with a vertica
 
 - **Customizable Transition:** Easily transition to your app's main page after the loading screen. 
 
-  ![gif](https://github.com/KennyXiang/LoadingView/raw/main/assets/sample.gif)
+  [![Video Thumbnail](https://img.shields.io/badge/Watch%20Sample%20Video-blue)](https://github.com/KennyXiang/LoadingView/raw/main/assets/sample.mov)
 
 ## Installation
 1. Clone or download this repository.
