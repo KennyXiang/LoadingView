@@ -9,9 +9,9 @@ LoadingView is a SwiftUI component that displays a loading screen with a vertica
 
 - **Light & Dark Mode Support:** Adapts background and text colors based on the system color scheme.
 
-- **Customizable Transition:** Easily transition to your app's main page after the loading screen.
+- **Customizable Transition:** Easily transition to your app's main page after the loading screen. 
 
-  "Markdown [![Video Thumbnail](https://img.shields.io/badge/Watch%20Video-blue)](https://github.com/KennyXiang/LoadingView/raw/main/assets/sample.mov)"
+  [![Video Thumbnail](https://img.shields.io/badge/Watch%20Video-blue)](https://github.com/KennyXiang/LoadingView/raw/main/assets/sample.mov)
 
 ## Installation
 1. Clone or download this repository.
